@@ -31,7 +31,7 @@ Art. 1
 Kodeks postępowania cywilnego normuje postępowanie sądowe w sprawach ze stosunków z zakresu prawa cywilnego, rodzinnego i opiekuńczego oraz prawa pracy, jak również w sprawach z zakresu ubezpieczeń społecznych oraz w innych sprawach, do których przepisy tego Kodeksu stosuje się z mocy ustaw szczególnych (sprawy cywilne).
 Art. 2
   §1. Do rozpoznawania spraw cywilnych powołane są sądy powszechne, o ile sprawy te nie należą do właściwości sądów szczególnych, oraz Sąd Najwyższy.
-§1a.(uchylony).
+  §1a. (uchylony).
   §2. (uchylony).
   §3. Nie są rozpoznawane w postępowaniu sądowym sprawy cywilne, jeżeli przepisy szczególne przekazują je do właściwości innych organów.
 Art. 3
@@ -659,8 +659,8 @@ Art. 132
 Art. 133
   §1. Jeżeli stroną jest osoba fizyczna, doręczenia dokonuje się jej osobiście, a gdy nie ma ona zdolności procesowej - jej przedstawicielowi ustawowemu.
   §2. Pisma procesowe lub orzeczenia dla osoby prawnej, jak również dla organizacji, która nie ma osobowości prawnej, doręcza się organowi uprawnionemu do reprezentowania ich przed sądem lub do rąk pracownika upoważnionego do odbioru pism.
-§2a.Pisma procesowe dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres podany w rejestrze, chyba że strona wskazała inny adres dla doręczeń. Jeżeli ostatni wpisany adres został wykreślony jako niezgodny z rzeczywistym stanem rzeczy i nie zgłoszono wniosku o wpis nowego adresu, adres wykreślony jest uważany za adres podany w rejestrze.
-§2b.(uchylony).
+  §2a. Pisma procesowe dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres podany w rejestrze, chyba że strona wskazała inny adres dla doręczeń. Jeżeli ostatni wpisany adres został wykreślony jako niezgodny z rzeczywistym stanem rzeczy i nie zgłoszono wniosku o wpis nowego adresu, adres wykreślony jest uważany za adres podany w rejestrze.
+  §2b. (uchylony).
   §3. Jeżeli ustanowiono pełnomocnika procesowego lub osobę upoważnioną do odbioru pism sądowych, doręczenia należy dokonać tym osobom. Jednakże Skarbowi Państwa doręczenia dokonuje się zawsze w sposób określony w § 2.
 Art. 134
   §1. W dni ustawowo uznane za wolne od pracy, jako też w porze nocnej doręczać można tylko w wyjątkowych wypadkach za uprzednim zarządzeniem prezesa sądu.
@@ -2393,8 +2393,8 @@ Art. 479[33]
   §2. Sąd ochrony konkurencji i konsumentów może, w drodze postanowienia, ujawnić stronie postępowania sądowego informacje chronione w postępowaniu przed Prezesem Urzędu jako tajemnica przedsiębiorstwa drugiej strony tylko wtedy, gdy:
   1) zmieniły się istotnie okoliczności będące podstawą wydania przez Prezesa Urzędu postanowienia ograniczającego prawo wglądu do materiału dowodowego załączonego przez strony do akt sprawy;
   2) strona, której tajemnica przedsiębiorstwa jest chroniona, wyraziła zgodę.
-§2a.Dokumenty, o których mowa w art. 70 ust. 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, mogą być kopiowane przez strony i innych uczestników postępowania jedynie, w przypadku gdy przedsiębiorca lub osoba zarządzająca, o których mowa w tym przepisie, wyrażą na to pisemną zgodę. Bez pisemnej zgody przedsiębiorcy lub osoby zarządzającej można sporządzać jedynie odręczne notatki z tych dokumentów, po uprzednim zobowiązaniu się, że informacje uzyskane w ten sposób będą wykorzystywane jedynie na potrzeby postępowania toczącego się w sprawie.
-§2b.Kopie dokumentów, o których mowa w art. 70 ust. 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, sporządzone bez pisemnej zgody przedsiębiorcy lub osoby zarządzającej lub informacje uzyskane dzięki dostępowi do tych dokumentów nie mogą być wykorzystane jako dowód w postępowaniu prowadzonym przed sądem w innej sprawie.
+  §2a. Dokumenty, o których mowa w art. 70 ust. 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, mogą być kopiowane przez strony i innych uczestników postępowania jedynie, w przypadku gdy przedsiębiorca lub osoba zarządzająca, o których mowa w tym przepisie, wyrażą na to pisemną zgodę. Bez pisemnej zgody przedsiębiorcy lub osoby zarządzającej można sporządzać jedynie odręczne notatki z tych dokumentów, po uprzednim zobowiązaniu się, że informacje uzyskane w ten sposób będą wykorzystywane jedynie na potrzeby postępowania toczącego się w sprawie.
+  §2b. Kopie dokumentów, o których mowa w art. 70 ust. 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, sporządzone bez pisemnej zgody przedsiębiorcy lub osoby zarządzającej lub informacje uzyskane dzięki dostępowi do tych dokumentów nie mogą być wykorzystane jako dowód w postępowaniu prowadzonym przed sądem w innej sprawie.
   §3. Sąd na wniosek strony lub z urzędu może, w drodze postanowienia, w niezbędnym zakresie ograniczyć pozostałym stronom prawo wglądu do materiału dowodowego załączonego przez strony do akt sprawy w toku postępowania sądowego, jeżeli udostępnienie tego materiału groziłoby ujawnieniem tajemnicy przedsiębiorstwa lub innych tajemnic podlegających ochronie na podstawie odrębnych przepisów.
   §4. Ograniczenie prawa wglądu do materiału dowodowego, o którym mowa w § 3, nie dotyczy Prezesa Urzędu.
   §5. Na postanowienie, o którym mowa w § 2 i 3, nie przysługuje zażalenie.
@@ -2568,7 +2568,7 @@ Art. 485
   3) wezwaniem dłużnika do zapłaty i pisemnym oświadczeniem dłużnika o uznaniu długu;
   4) zaakceptowanym przez dłużnika żądaniem zapłaty, zwróconym przez bank i niezapłaconym z powodu braku środków na rachunku bankowym.
   §2. Sąd wydaje również nakaz zapłaty przeciwko zobowiązanemu z weksla, czeku, warrantu lub rewersu należycie wypełnionego, których prawdziwość i treść nie nasuwają wątpliwości. W razie przejścia na powoda praw z weksla, z czeku, z warrantu lub z rewersu, do wydania nakazu niezbędne jest przedstawienie dokumentów do uzasadnienia roszczenia, o ile przejście tych praw na powoda nie wynika bezpośrednio z weksla, z czeku, z warrantu lub z rewersu.
-§2a.Sąd wydaje nakaz zapłaty na podstawie dołączonej do pozwu umowy, dowodu spełnienia wzajemnego świadczenia niepieniężnego, dowodu doręczenia dłużnikowi faktury lub rachunku, jeżeli powód dochodzi należności zapłaty świadczenia pieniężnego, odsetek w transakcjach handlowych określonych w ustawie z dnia 8 marca 2013 r. o terminach zapłaty w transakcjach handlowych (Dz. U. poz.   403)  lub kwoty, o której mowa w art. 10 ust. 1 tej ustawy, oraz na podstawie dokumentów potwierdzających poniesienie kosztów odzyskiwania należności, jeżeli powód dochodzi również zwrotu kosztów, o których mowa w art. 10 ust. 2 tej ustawy.
+  §2a. Sąd wydaje nakaz zapłaty na podstawie dołączonej do pozwu umowy, dowodu spełnienia wzajemnego świadczenia niepieniężnego, dowodu doręczenia dłużnikowi faktury lub rachunku, jeżeli powód dochodzi należności zapłaty świadczenia pieniężnego, odsetek w transakcjach handlowych określonych w ustawie z dnia 8 marca 2013 r. o terminach zapłaty w transakcjach handlowych (Dz. U. poz.   403)  lub kwoty, o której mowa w art. 10 ust. 1 tej ustawy, oraz na podstawie dokumentów potwierdzających poniesienie kosztów odzyskiwania należności, jeżeli powód dochodzi również zwrotu kosztów, o których mowa w art. 10 ust. 2 tej ustawy.
   §3. Sąd może wydać nakaz zapłaty, jeżeli bank dochodzi roszczenia na podstawie wyciągu z ksiąg bankowych podpisanego przez osoby upoważnione do składania oświadczeń w zakresie praw i obowiązków majątkowych banku i opatrzonego pieczęcią banku oraz dowodu doręczenia dłużnikowi pisemnego wezwania do zapłaty.
   §4. Jeżeli nie dołączono oryginału weksla, czeku, warrantu lub rewersu albo dokumentów określonych w § 3, przewodniczący wzywa powoda do ich złożenia pod rygorem zwrotu pozwu na podstawie art. 130.
 Art. 486
@@ -2857,7 +2857,7 @@ Art. 518[1]
   §1. (uchylony).
   §2. (uchylony).
   §3. W razie wniesienia skargi na wpis w księdze wieczystej wpis nie traci mocy. Rozpoznając sprawę, sąd zmienia zaskarżony wpis przez jego wykreślenie i dokonanie nowego wpisu lub wydaje postanowienie, którym zaskarżony wpis utrzymuje w mocy albo uchyla go w całości lub w części i w tym zakresie wniosek oddala bądź odrzuca, względnie postępowanie umarza.
-§3a.W postępowaniu rejestrowym o wpis do Krajowego Rejestru Sądowego oraz rejestru zastawów w razie wniesienia skargi na orzeczenie referendarza zarządzające wpis, pozostaje ono w mocy do chwili rozpatrzenia skargi przez sąd rejonowy rozpoznający sprawę jako sąd pierwszej instancji. Rozpoznając sprawę, sąd wydaje postanowienie, w którym zaskarżone orzeczenie i dokonany na jego podstawie wpis utrzymuje w mocy albo uchyla w całości lub w części i w tym zakresie wniosek oddala bądź odrzuca, względnie postępowanie umarza.
+  §3a. W postępowaniu rejestrowym o wpis do Krajowego Rejestru Sądowego oraz rejestru zastawów w razie wniesienia skargi na orzeczenie referendarza zarządzające wpis, pozostaje ono w mocy do chwili rozpatrzenia skargi przez sąd rejonowy rozpoznający sprawę jako sąd pierwszej instancji. Rozpoznając sprawę, sąd wydaje postanowienie, w którym zaskarżone orzeczenie i dokonany na jego podstawie wpis utrzymuje w mocy albo uchyla w całości lub w części i w tym zakresie wniosek oddala bądź odrzuca, względnie postępowanie umarza.
   §4. Skargę wnosi się do sądu w terminie tygodniowym:
   1) od dnia czynności, gdy uczestnik był przy niej obecny lub był o jej terminie zawiadomiony;
   2) w innych wypadkach niż wymienione w pkt 1 - od dnia doręczenia zawiadomienia uczestnika o dokonaniu czynności;
@@ -4681,7 +4681,7 @@ Przepisy dotyczące egzekucji z ruchomości stosuje się odpowiednio do egzekucj
 Art. 845
   §1. Do egzekucji z ruchomości komornik przystępuje przez ich zajęcie.
   §2. Zająć można ruchomości dłużnika będące bądź w jego władaniu, bądź we władaniu samego wierzyciela, który do nich skierował egzekucję. Ruchomości dłużnika będące we władaniu osoby trzeciej można zająć tylko wówczas, gdy osoba ta zgadza się na ich zajęcie albo przyznaje, że stanowią one własność dłużnika, oraz w wypadkach wskazanych w ustawie. Jednakże w razie zbiegu egzekucji sądowej i administracyjnej dopuszczalne jest zajęcie ruchomości na zasadach przewidzianych w przepisach o egzekucji administracyjnej.
-§2a.W przypadku egzekucji świadczeń alimentacyjnych komornik może zająć także ruchomości będące we władaniu osoby zamieszkującej wspólnie z dłużnikiem bez zgody tej osoby, chyba że przedstawi ona dowód, że ruchomości są jej własnością.
+  §2a. W przypadku egzekucji świadczeń alimentacyjnych komornik może zająć także ruchomości będące we władaniu osoby zamieszkującej wspólnie z dłużnikiem bez zgody tej osoby, chyba że przedstawi ona dowód, że ruchomości są jej własnością.
   §3. Nie należy zajmować więcej ruchomości ponad te, które są potrzebne do zaspokojenia należności i kosztów egzekucyjnych.
 Art. 846
   §1. Egzekucja z ułamkowej części rzeczy ruchomej będącej wspólną własnością kilku osób odbywa się w sposób przewidziany dla egzekucji z ruchomości, z zastrzeżeniem, że sprzedaży podlega tylko udział dłużnika.
