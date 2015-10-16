@@ -19,9 +19,9 @@
 | 2015-03-20    | zm. DZ.U.2015.218 art. 1    |
 | 2015-03-27    | zm. DZ.U.2014.1296 art. 1   |
 
-USTAWA
+# USTAWA
 z dnia 17 listopada 1964 r.
-Kodeks postępowania cywilnego
+## Kodeks postępowania cywilnego
 (tekst jednolity)
 
 ### TYTUŁ WSTĘPNY
